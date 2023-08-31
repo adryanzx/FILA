@@ -1,0 +1,14 @@
+F:\FATEC\estruturas de dados\MdsVAi\ex1\bin\Debug\net7.0\ex1.exe
+F:\FATEC\estruturas de dados\MdsVAi\ex1\bin\Debug\net7.0\ex1.deps.json
+F:\FATEC\estruturas de dados\MdsVAi\ex1\bin\Debug\net7.0\ex1.runtimeconfig.json
+F:\FATEC\estruturas de dados\MdsVAi\ex1\bin\Debug\net7.0\ex1.dll
+F:\FATEC\estruturas de dados\MdsVAi\ex1\bin\Debug\net7.0\ex1.pdb
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ex1.AssemblyInfoInputs.cache
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ex1.AssemblyInfo.cs
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ex1.csproj.CoreCompileInputs.cache
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ex1.dll
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\refint\ex1.dll
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ex1.pdb
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ex1.genruntimeconfig.cache
+F:\FATEC\estruturas de dados\MdsVAi\ex1\obj\Debug\net7.0\ref\ex1.dll
